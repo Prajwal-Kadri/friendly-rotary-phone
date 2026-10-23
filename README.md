@@ -24,3 +24,9 @@ Then open the local URL shown by Flask.
 - `templates/form.html` — input form
 - `IEP_data_save.data` — serialized problem-group data
 - `static/` — styles and image assets
+
+## License
+
+Original source code and technical documentation authored by Prajwal Kadri are licensed under the [MIT License](LICENSE).
+
+The serialized problem-group data (`IEP_data_save.data`), Codeforces problem content and API data, image assets, and third-party dependencies are excluded. Their respective owners' terms continue to apply.
